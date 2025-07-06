@@ -4,9 +4,6 @@
 
 ![TripWise Banner](https://user-images.githubusercontent.com/your-banner-placeholder.png)
 
-## 🚀 Live Demo
-
-🔗 [TripWise App](https://ai-travel-planner-app.vercel.app)
 
 ## 🧠 Overview
 
